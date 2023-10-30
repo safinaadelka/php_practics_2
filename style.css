@@ -1,0 +1,17 @@
+.car{
+    background-color: rgb(49, 86, 207);
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    max-width: 350px;
+    justify-content: center;
+}
+body{
+    font-family: "Arial";
+    font-size: 25px;
+    background: #001b7e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
